@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HorseTrack Betting</string>
+    <string name="txtTitle">Welcome to RaceTrack Betting</string>
+    <string name="txtBet">Place Bet</string>
+    <string name="txtExit">Exit</string>
+    <string name="txtTitleBet">Place your bets:</string>
+    <string name="place_bet">PLACE BET</string>
+    <string name="balance">Balance:</string>
+    <string name="txtResult">You win/lose x</string>
+    <string name="choose">Choose a horse to bet on:</string>
+    <string name="less"><![CDATA[<]]></string>
+    <string name="more"><![CDATA[>]]></string>
+    <string name="goal">Goal:</string>
+    <string name="goalExample">250000</string>
+    <string name="bet">1000</string>
+    <string name="payExample">13000</string>
+    <string name="payout">Payout:</string>
+    <string name="hnum">1</string>
+    <string name="hname">Horse</string>
+    <string name="hodd">2/1</string>
+    <string name="bal">6000</string>
+    <string name="desc">Image of winning horse</string>
+    <string name="rules">Horses with lower odds will win small amounts more frequently.Horses with higher odds will win larger amounts less frequently.. Have fun!</string>
+</resources>
