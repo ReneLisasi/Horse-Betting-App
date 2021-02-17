@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectingActivity" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+        <ListView
+            android:id="@+id/horseListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="75dp" />
+        </ScrollView>
+        <TextView
+            android:id="@+id/txtChoose"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:background="#000000"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/choose"
+            android:textColor="#F44336"
+            android:textSize="24sp"
+            app:fontFamily="cursive" />
+
+</RelativeLayout>
